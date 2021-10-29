@@ -11,7 +11,7 @@ body{
   background: url('web material/me.png');
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-position:relative ;
+  background-position:absolute ;
 }
 
 h2{
