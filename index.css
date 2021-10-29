@@ -33,20 +33,20 @@ p{
 
 @keyframes mymove1 {
 
-    0%   {top: 850px; left: 600px; }
-    25% {top: 580; left: 1300px;}
-    50%  {top: 1000px; left: 900px;}
-    80%  {top: 1200px; left: 700px;}
-    100%   {top: 850px; left: 600px; }
+    0%   {top:70%; left: 40%; }
+    25% {top: 30%; left: 90%;}
+    50%  {top: 80%; left: 70%;}
+    80%  {top: 90%; left: 60%;}
+    100%   {top: 70%; left: 40%; }
 
 }
 @keyframes mymove2 {
 
-    0%   {top: 1200px; left: 1020px; }
-    25% {top: 980px; left: 280px;}
-    50%  {top: 600px; left: 1300px;}
-    80%  {top: 100px; left: 900px;}
-    100%   {top: 1200px; left: 1020px; }
+    0%   {top: 90%; left: 85%; }
+    25% {top: 70%; left: 20%;}
+    50%  {top: 45%; left: 85%;}
+    80%  {top: 15%; left: 75%;}
+    100%   {top: 90%; left: 85%; }
 
 }
 /* @keyframes mymove3 {
@@ -61,19 +61,19 @@ p{
 } */
 @keyframes mymove4 {
 
-    0%   {top: 650px; left: 100px; }
-    25% {top: 760px; left: 100px;}
-    50%  {top: 1300px; left: 200px;}
-    80%  {top: 200px; left: 200px;}
-    100%   {top: 650px; left: 100px; }
+    0%   {top: 45%; left: 5%; }
+    25% {top: 50%; left: 10%;}
+    50%  {top: 80%; left: 25%;}
+    80%  {top: 15%; left: 15%;}
+    100%   {top: 45%; left: 5%; }
 
 }
 @keyframes mymove5 {
 
-  0%   {top: 950px; left: 800px; }
-  25% {top: 800px; left: 1300px;}
-  50%  {top: 1200px; left: 1000px;}
-  80%  {top: 650px; left: 800px;}
-  100%   {top: 950px; left: 800px; }
+  0%   {top: 75%; left: 75%; }
+  25% {top: 70%; left: 90%;}
+  50%  {top: 90%; left: 85%;}
+  80%  {top: 40%; left: 65%;}
+  100%   {top: 75%; left: 75%; }
 
 }
