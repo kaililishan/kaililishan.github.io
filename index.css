@@ -34,7 +34,7 @@ p{
 @keyframes mymove1 {
 
     0%   {top:70%; left: 40%; }
-    25% {top: 30%; left: 90%;}
+    25% {top: 30%; left: 85%;}
     50%  {top: 80%; left: 70%;}
     80%  {top: 90%; left: 60%;}
     100%   {top: 70%; left: 40%; }
@@ -42,11 +42,11 @@ p{
 }
 @keyframes mymove2 {
 
-    0%   {top: 90%; left: 85%; }
+    0%   {top: 90%; left: 80%; }
     25% {top: 70%; left: 20%;}
-    50%  {top: 45%; left: 85%;}
-    80%  {top: 15%; left: 75%;}
-    100%   {top: 90%; left: 85%; }
+    50%  {top: 45%; left: 80%;}
+    80%  {top: 15%; left: 55%;}
+    100%   {top: 90%; left: 80%; }
 
 }
 /* @keyframes mymove3 {
@@ -70,10 +70,10 @@ p{
 }
 @keyframes mymove5 {
 
-  0%   {top: 75%; left: 75%; }
-  25% {top: 70%; left: 90%;}
-  50%  {top: 90%; left: 85%;}
+  0%   {top: 75%; left: 45%; }
+  25% {top: 70%; left: 85%;}
+  50%  {top: 90%; left:70%;}
   80%  {top: 40%; left: 65%;}
-  100%   {top: 75%; left: 75%; }
+  100%   {top: 75%; left: 45%; }
 
 }
