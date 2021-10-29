@@ -1,8 +1,4 @@
-html{
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;}
+
 
 h1{
   color: white;
@@ -16,6 +12,7 @@ body{
   background: url('web material/me.png');
   background-repeat: no-repeat;
   background-position:fixed ;
+  background-size:cover;
 }
 
 h2{
