@@ -36,17 +36,17 @@ p{
     0%   {top: 850px; left: 600px; }
     25% {top: 580; left: 1300px;}
     50%  {top: 1000px; left: 900px;}
-    80%  {top: 1600px; left: 700px;}
+    80%  {top: 1200px; left: 700px;}
     100%   {top: 850px; left: 600px; }
 
 }
 @keyframes mymove2 {
 
-    0%   {top: 1300px; left: 1020px; }
+    0%   {top: 1200px; left: 1020px; }
     25% {top: 980px; left: 280px;}
     50%  {top: 600px; left: 1300px;}
     80%  {top: 100px; left: 900px;}
-    100%   {top: 1300px; left: 1020px; }
+    100%   {top: 1200px; left: 1020px; }
 
 }
 /* @keyframes mymove3 {
@@ -72,7 +72,7 @@ p{
 
   0%   {top: 950px; left: 800px; }
   25% {top: 800px; left: 1300px;}
-  50%  {top: 1300px; left: 1000px;}
+  50%  {top: 1200px; left: 1000px;}
   80%  {top: 650px; left: 800px;}
   100%   {top: 950px; left: 800px; }
 
