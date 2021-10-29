@@ -31,11 +31,11 @@ p{
 
 @keyframes mymove1 {
 
-    0%   {top: 850px; left: 600px; }
-    25% {top: 580px; left: 1300px;}
-    50%  {top: 1000px; left: 1600px;}
-    80%  {top: 1300px; left: 700px;}
-    100%   {top: 850px; left: 600px; }
+    0%   {top: 850; left: 600; }
+    25% {top: 580; left: 1300;}
+    50%  {top: 1000; left: 1600;}
+    80%  {top: 1300; left: 700;}
+    100%   {top: 850; left: 600; }
 
 }
 @keyframes mymove2 {
