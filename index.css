@@ -10,7 +10,11 @@ body{
   padding: 10px;
   background: url('web material/me.png');
   background-repeat: no-repeat;
-  background-position:absolute ;
+  background-position:fixed ;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 h2{
